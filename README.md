@@ -34,6 +34,6 @@ This repository contains an Excel-based data analysis project on bike purchase d
 - Use slicers to filter and explore data.
 
 ## Screenshots
-[Add screenshots here, e.g., dashboard.png – upload your images to the repo and link them.]
+<img src="Dashboard.png" alt="Interactive Bike Purchase Dashboard with slicers" width="800"/>
 
 Feel free to fork and improve!
